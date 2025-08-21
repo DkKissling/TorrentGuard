@@ -23,7 +23,8 @@ Descarga el ejecutable listo para usar desde la sección [Releases](../../releas
    TorrentGuard.exe "ruta\al\archivo.torrent"
    ```
    **O**
-   Agarrar el .torrent y soltar sobre el .exe
+
+   - Agarrar el .torrent y soltar sobre el .exe
    
 ### 🔑 Obtener API Key de VirusTotal (Gratis)
 1. Regístrate en [VirusTotal.com](https://www.virustotal.com/)
