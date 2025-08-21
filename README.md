@@ -173,6 +173,19 @@ El programa realiza las siguientes verificaciones:
 - ⚠️ **MEDIO:** Elementos que requieren atención
 - ❌ **ALTO:** Amenazas detectadas, no recomendado
 
+
+## 🤖 Desarrollo con IA
+
+Este proyecto fue desarrollado con la **asistencia de inteligencia artificial** (Claude de Anthropic), lo que permitió:
+- **Arquitectura optimizada** del sistema de análisis
+- **Implementación eficiente** de patrones de seguridad
+- **Documentación completa** y casos de prueba
+
+La IA ayudó especialmente en:
+- Optimización de consultas a APIs externas
+- Manejo de excepciones y casos edge
+- Estructuración del código para escalabilidad futura
+
 ## ⚠️ Limitaciones
 
 - Solo analiza archivos .torrent, no el contenido descargado
