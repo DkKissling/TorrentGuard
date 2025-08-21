@@ -212,19 +212,8 @@ PROYECTO TORRENTGUARD/
 ### Configuración del Entorno de Desarrollo
 ```bash
 pip install -r requirements.txt
-pip install -r requirements-dev.txt  # Para herramientas de desarrollo
 ```
 
-### Ejecutar Tests
-```bash
-pytest
-```
-
-### Estilo de Código
-- Seguimos PEP 8
-- Usamos type hints
-- Docstrings en formato Google
-- Black para formateo de código
 
 ## 📜 Licencia
 
