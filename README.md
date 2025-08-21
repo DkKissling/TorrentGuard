@@ -1,6 +1,6 @@
 # TorrentGuard
 
-TorrentGuard es una herramienta avanzada de seguridad para archivos torrent que utiliza la API de VirusTotal y análisis estático para detectar amenazas potenciales antes de la descarga.
+TorrentGuard es una herramienta de seguridad para archivos torrent que utiliza la API de VirusTotal y análisis estático para detectar amenazas potenciales antes de la descarga.
 
 ## 🚀 Descarga Rápida (No Requiere Programación)
 
