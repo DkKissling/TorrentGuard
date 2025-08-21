@@ -22,7 +22,7 @@ Descarga el ejecutable listo para usar desde la sección [Releases](../../releas
    ```bash
    TorrentGuard.exe "ruta\al\archivo.torrent"
    ```
-   o
+   **O**
    Agarrar el .torrent y soltar sobre el .exe
    
 ### 🔑 Obtener API Key de VirusTotal (Gratis)
